@@ -3,7 +3,7 @@
 Hành trình học Python cơ bản và rèn luyện thuật toán mỗi ngày trong 30 ngày liên tiếp. Mỗi ngày là 1 thư mục riêng chứa bài học và bài tập thực hành.
 
 ## 🧑‍🎓 Người học
-- Tên: [Tên bạn]
+- Tên: Quý
 - Ngành: Sinh viên IT
 - Mục tiêu: Thành thạo Python + thuật toán để đi làm
 
