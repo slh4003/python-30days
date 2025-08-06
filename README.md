@@ -12,9 +12,12 @@ Hành trình học Python cơ bản và rèn luyện thuật toán mỗi ngày t
 | Ngày | Chủ đề                      | Trạng thái |
 |------|-----------------------------|------------|
 | 01   | Cài đặt + Hello World       | ✅         |
-| 02   | Biến, kiểu dữ liệu          | 🔄         |
-...
+| 02   | Biến, kiểu dữ liệu          | ✅         |
+| 03   | Câu lệnh điều kiện          | 🔄         |
 
 ## 📂 Cấu trúc repo
 
-- `Day01/hello.py` – In ra "Hello, world!"
+- `Day01/hello.py`
+- `Day02/main.py`
+- `Day02/main1.py`
+- `Day02/main2.py`
