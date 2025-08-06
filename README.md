@@ -13,7 +13,7 @@ Hành trình học Python cơ bản và rèn luyện thuật toán mỗi ngày t
 |------|-----------------------------|------------|
 | 01   | Cài đặt + Hello World       | ✅         |
 | 02   | Biến, kiểu dữ liệu          | ✅         |
-| 03   | Câu lệnh điều kiện          | 🔄         |
+| 03   | Câu lệnh điều kiện (if - else) & Bài toán phân nhánh          | 🔄         |
 
 ## 📂 Cấu trúc repo
 
