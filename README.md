@@ -5,7 +5,7 @@ Hành trình học Python cơ bản và rèn luyện thuật toán mỗi ngày t
 ## 🧑‍🎓 Người học
 - Tên: Quý
 - Ngành: Sinh viên IT
-- Mục tiêu: Thành thạo Python + thuật toán để đi làm
+- Mục tiêu: Thành thạo Python + thuật toán
 
 ## 📅 Tiến độ
 
