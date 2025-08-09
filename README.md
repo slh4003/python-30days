@@ -13,8 +13,8 @@ Hành trình học Python cơ bản và rèn luyện thuật toán mỗi ngày t
 |------|-----------------------------|------------|
 | 01   | Cài đặt + Hello World       | ✅         |
 | 02   | Biến, kiểu dữ liệu          | ✅         |
-| 03   | Câu lệnh điều kiện (if - else) & Bài toán phân nhánh          | 🔄         |
-
+| 03   | Toán học trong Python (Math & Number Operations)          | ✅         |
+| 04   |           | 🔄         |
 ## 📂 Cấu trúc repo
 
 - `Day01/hello.py`
